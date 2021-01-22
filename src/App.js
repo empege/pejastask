@@ -32,7 +32,6 @@ const App = () => {
           <Route path="*">
             <div>ERROR!</div>
           </Route>
-
         </Switch>
       </Router>
     </AppProvider>
